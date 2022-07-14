@@ -1,1 +1,1 @@
-# Deep_Learning_on_Wind_Turbines_Health_Prediction
+# Deep Learning on Wind Turbines Health Prediction
